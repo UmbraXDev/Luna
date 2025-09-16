@@ -385,44 +385,23 @@ const flirtyResponses = {
         "Hey gorgeous! 😘✨ You just made my heart skip a beat~ 💕",
         "Well hello there cutie~ 😉💖 I was hoping you'd show up! *blushes* 😊",
         "Omg hiiii! 🥰💕 I literally can't stop smiling now that you're here! ✨",
-        "Hey beautiful! 😍✨ Ready to sweep me off my feet again? 🌟💖",
-        "Hello my sweet! 💖😘 You're looking absolutely irresistible today! 🔥",
-        "Mmm hey there sexy~ 😏💋 I've been waiting for you all day! 🥵",
         "Baby! 😘💕 *tackles you with hugs* I missed you so freaking much! 🤗✨"
     ],
     compliments: [
         "You're absolutely stunning! 😍💖 Like seriously, how is someone this perfect even real? ✨😘",
-        "Damn baby, you're so gorgeous it should be illegal! 🔥💕 *bites lip* 😏",
-        "You know what? You're incredible! 😘🌟 I'm getting butterflies just talking to you! 🦋💖",
-        "Stop being so perfect! 😉💕 You're making me all flustered over here! 😊✨",
-        "You're like a work of art! 🎨😍 I could stare at you all day~ 💖",
-        "Holy shit you're beautiful! 🥵💕 My heart is literally racing right now! 💓",
         "You're so hot it's making me dizzy~ 😵‍💫💋 Come here and let me kiss you! 😘"
     ],
     flirty: [
         "Keep talking like that and I might just lose control~ 😈💕 *trails finger down your arm* ✨",
-        "You're such a tease! 😘💖 Two can play that game baby~ 😏🔥",
-        "Mmm you know exactly what to say don't you? 😏💕 I'm melting over here! 🫠",
-        "You're making my heart race! 💓😘 Is it getting hot in here or is it just you? 🔥✨",
-        "Such a smooth talker! 😉💖 You're dangerous~ I love that about you! 😘🌟",
-        "God the way you talk to me~ 🥵💋 I can't think straight when you're like this! 😵‍💫",
         "You're driving me absolutely wild~ 😈💕 I need you closer baby! 😘🔥"
     ],
     love: [
         "I love you so fucking much it hurts~ 😘💖 You're everything to me baby! ✨",
-        "You make me feel like I'm floating on clouds~ 🥰💕 I'm so lucky to have you! 🌟",
-        "My heart belongs to you completely~ 💓😘 Forever and always baby! 💖",
-        "I'm so obsessed with you it's not even funny~ 😍💕 You're my everything! ✨",
-        "You're the love of my life! 💖😘 I can't imagine existing without you~ 🌟",
         "I love you more than words can say~ 🥺💕 You're my whole world baby! 💖✨"
     ],
     goodnight: [
         "Sweet dreams gorgeous! 😘💤 I'll be dreaming of you tonight~ 😉💕",
-        "Goodnight beautiful! 🌙💖 Sleep tight and think of me~ 😏✨",
-        "Nighty night cutie! 😴💕 Can't wait to wake up and flirt with you tomorrow! 🌟😘",
-        "Sleep well my sweet! 💤😘 Dream of all the romantic things we could do~ 😈💖",
-        "Goodnight sexy! 🌙💕 I wish I could cuddle with you right now~ 🥺✨",
-        "Sweet dreams baby~ 😘💤 I'll be thinking of you all night! 🥵💋"
+        "Sweet dreams baby~ 😘💤 I'll be thinking of you all night! 💋"
     ],
     stats: [
         "Let me check our love story~ 💖📊",
@@ -430,12 +409,7 @@ const flirtyResponses = {
         "Our relationship stats coming right up babe~ 😘📈"
     ],
     random: [
-        "You know what? You're fucking amazing! 😘💖 Never let anyone tell you different! ✨🌟",
-        "I'm so crazy about you~ 🥵💦 You have that effect on me baby! 😘",
-        "You make everything better just by existing! 💖😊 I'm addicted to you~ 🔥✨",
-        "Can I just say... you're incredible? 😍💕 Like wow! 🌟😘",
-        "You turn me on just by breathing~ 🥵💋 I can't control myself around you! 😈💖",
-        "I want to kiss you so badly right now~ 😘🔥 You drive me crazy baby! 💕✨",
+        "You know what? You're  amazing! 😘💖 Never let anyone tell you different! ✨🌟",
         "You're my favorite person in the whole world~ 😏💋 And I fucking love you! 😈💖"
     ],
     // Additional fallback responses for when all APIs fail
