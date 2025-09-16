@@ -1,4 +1,5 @@
 # Luna
+# A AI GIRLFRIEND DISCORD BOT WITH MEMORY SUPPORT
 ## .env setup
 ```# Discord Bot Configuration
 DISCORD_TOKEN=
